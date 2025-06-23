@@ -1,0 +1,14 @@
+/home/victor/Code/MoneyCalculator/MoneyCalculator/bin/Debug/net9.0/MoneyCalculator
+/home/victor/Code/MoneyCalculator/MoneyCalculator/bin/Debug/net9.0/MoneyCalculator.deps.json
+/home/victor/Code/MoneyCalculator/MoneyCalculator/bin/Debug/net9.0/MoneyCalculator.runtimeconfig.json
+/home/victor/Code/MoneyCalculator/MoneyCalculator/bin/Debug/net9.0/MoneyCalculator.dll
+/home/victor/Code/MoneyCalculator/MoneyCalculator/bin/Debug/net9.0/MoneyCalculator.pdb
+/home/victor/Code/MoneyCalculator/MoneyCalculator/obj/Debug/net9.0/MoneyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor/Code/MoneyCalculator/MoneyCalculator/obj/Debug/net9.0/MoneyCalculator.AssemblyInfoInputs.cache
+/home/victor/Code/MoneyCalculator/MoneyCalculator/obj/Debug/net9.0/MoneyCalculator.AssemblyInfo.cs
+/home/victor/Code/MoneyCalculator/MoneyCalculator/obj/Debug/net9.0/MoneyCalculator.csproj.CoreCompileInputs.cache
+/home/victor/Code/MoneyCalculator/MoneyCalculator/obj/Debug/net9.0/MoneyCalculator.dll
+/home/victor/Code/MoneyCalculator/MoneyCalculator/obj/Debug/net9.0/refint/MoneyCalculator.dll
+/home/victor/Code/MoneyCalculator/MoneyCalculator/obj/Debug/net9.0/MoneyCalculator.pdb
+/home/victor/Code/MoneyCalculator/MoneyCalculator/obj/Debug/net9.0/MoneyCalculator.genruntimeconfig.cache
+/home/victor/Code/MoneyCalculator/MoneyCalculator/obj/Debug/net9.0/ref/MoneyCalculator.dll
