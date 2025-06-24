@@ -12,3 +12,4 @@
 /home/victor/Code/MoneyCalculator/MoneyCalculator/obj/Debug/net9.0/MoneyCalculator.pdb
 /home/victor/Code/MoneyCalculator/MoneyCalculator/obj/Debug/net9.0/MoneyCalculator.genruntimeconfig.cache
 /home/victor/Code/MoneyCalculator/MoneyCalculator/obj/Debug/net9.0/ref/MoneyCalculator.dll
+/home/victor/Code/MoneyCalculator/MoneyCalculator/obj/Debug/net9.0/MoneyCalculator.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MoneyCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b4fa6265fc49097eca4f78f713633315df86eb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("MoneyCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MoneyCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
