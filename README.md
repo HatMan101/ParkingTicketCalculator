@@ -1,4 +1,1 @@
 # ParkingTicketCalculator
-# ParkingTicketCalculator
-# ParkingTicketCalculator
-# ParkingTicketCalculator
